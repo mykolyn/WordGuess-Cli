@@ -1,0 +1,29 @@
+{
+  "name": "word-guessing-game",
+  "version": "1.0.0",
+  "description": "word guessing game using constructors in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mykolyn/WordGuess-Cli.git"
+  },
+  "keywords": [
+    "word",
+    "guess",
+    "game",
+    "node",
+    "constructors"
+  ],
+  "author": "Michael Lin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mykolyn/WordGuess-Cli/issues"
+  },
+  "homepage": "https://github.com/mykolyn/WordGuess-Cli#readme",
+  "dependencies": {
+    "inquirer": "^7.0.4"
+  }
+}
